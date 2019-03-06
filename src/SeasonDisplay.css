@@ -1,0 +1,15 @@
+.snowflake{
+  color: lightblue;
+  z-index: -1
+}
+
+.icon-left{
+  position: absolute;
+  top: 5vw;
+  left: 5vh;
+}
+.icon-right{
+  position: absolute;
+  right: 10vw;
+  bottom: 10vh;
+}
